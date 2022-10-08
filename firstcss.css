@@ -1,0 +1,23 @@
+
+}
+
+h1 p {
+  color: #AA4139;
+  text-align: center;
+  border: 5px solid rgba(255, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+p {
+  color: green;
+}
+
+li {
+  color: orange;
+  list-style: none;
+  display: inline-block;
+}
+
+#div1 {
+  background: red;
+}
